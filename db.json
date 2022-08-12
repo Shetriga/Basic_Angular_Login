@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Neymar",
+      "lastName": "Da Silva",
+      "email": "n@n.com",
+      "mobile": "12",
+      "salary": 3
+    },
+    {
+      "id": 4,
+      "firstName": "Mahmoud",
+      "email": "123",
+      "mobile": "+201223434142",
+      "salary": 696969
+    },
+    {
+      "id": 5,
+      "firstName": "Nathan",
+      "lastName": "Jones",
+      "email": "1232335",
+      "mobile": "+201223434142",
+      "salary": 20
+    }
+  ],
+  "users": [
+    {
+      "email": "abc",
+      "password": "abc"
+    }
+  ],
+  "signupusers": [
+
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

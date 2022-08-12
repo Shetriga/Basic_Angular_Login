@@ -1,0 +1,16 @@
+.container {
+    background-color: powderblue;
+}
+.card {
+    padding: 30px;
+    border: 2px solid black;
+    width: 500px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.card form button {
+    margin: auto;
+    display: block;
+}
