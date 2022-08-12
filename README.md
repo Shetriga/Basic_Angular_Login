@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Then Run 'json-server --watch db.json', if you don't have json-server installed on your machine just open command prompt and type 'npm install -g json-server' and you are good to go. You must be running json-server at the same time with angular app in order for the application to work correctly.
 
 ## Code scaffolding
 
